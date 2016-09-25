@@ -21,7 +21,7 @@ public class Runner {
 		}catch (InterruptedException  e){
 			e.printStackTrace();
 		}
-		System.out.println("finalizado");
+		System.out.println("Finalizado");
 	}
 
 }
